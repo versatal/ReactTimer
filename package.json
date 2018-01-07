@@ -1,13 +1,13 @@
 {
-  "name": "boilerplate",
+  "name": "ReactTimer",
   "version": "1.0.0",
-  "description": "Simple react app",
+  "description": "A react timer and countdown app",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "author": "Andrew Mead",
+  "author": "Joe Hardin",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.17.1",
