@@ -4,7 +4,7 @@ var Clock = require('Clock');
 var Timer = () => {
   return (
     <div>
-      <Clock totalSeconds={0} />
+      <p>Timer.jsx</p>
     </div>
   )
 };
